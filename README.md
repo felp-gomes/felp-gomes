@@ -9,7 +9,7 @@ Today, I'm a Supervisor and Support Analyst at a telecommunications company look
 
 The technologies I currently use include React and Node, as well as TypeScript, Prisma, Express, Next, Chakra-UI, PostgreSQL, and occasionally some Linux tasks.
 
-Welcome to my GitHub!
+Welcome to my GitHub! :)
 
 ## Technologies:
 
