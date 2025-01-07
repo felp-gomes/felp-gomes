@@ -5,7 +5,7 @@ During my time at a vocational school, where I completed both high school and a 
 
 Today, I am a Supervisor and Support Analyst at a telecommunications company, looking to transition into the development area.
 
-The technologies I currently use include React and Node, as well as TypeScript, Prisma, Express, Next, Chakra-UI, PostgreSQL, and occasionally some Linux tasks.
+The technologies I currently use include React and Node, as well as Prisma, TypeORM, Express, Next, Nest, Chakra-UI, PostgreSQL, and occasionally some Linux tasks.
 
 Welcome to my GitHub! :)
 
